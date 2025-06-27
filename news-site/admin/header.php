@@ -40,12 +40,12 @@
                 <div class="row">
                     <div class="col-md-12">
                        <ul class="admin-menu">
-                            <li>
+                            <!-- <li>
                                 <a href="post.php">Post</a>
                             </li>
                             <li>
                                 <a href="category.php">Category</a>
-                            </li>
+                            </li> -->
                             <li>
                                 <a href="users.php">Users</a>
                             </li>
